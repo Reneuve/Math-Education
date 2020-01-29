@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: bebc4937fad6d034594293ceb4010ff8
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4c595ce41fb3a814bacabc1c74a9db81
+  - enabled: 1
+    path: Assets/Scenes/Penjumlahan Scene/Level1_Penjumlahan.unity
+    guid: e21ad10b121194b42b900dbf09dfca60
+  - enabled: 1
+    path: Assets/Scenes/Penjumlahan Scene/Menu_Penjumlahan.unity
+    guid: a3db172af1c8e544aa28aee6ee894b5d
+  - enabled: 1
+    path: Assets/Scenes/Penjumlahan Scene/Level2_Penjumlahan.unity
+    guid: ea1ee5fadd3da074cbcb55894235f918
+  - enabled: 1
+    path: Assets/Scenes/Penjumlahan Scene/Level3_Penjumlahan.unity
+    guid: c8ef513724a681b4f87e314faade112a
+  - enabled: 1
+    path: Assets/Scenes/Penjumlahan Scene/Level4_Penjumlahan.unity
+    guid: 03b0955aae2ea9947ad7b695e8f6b89e
+  - enabled: 1
+    path: Assets/Scenes/Pengurangan Scene/Level1_Pengurangan.unity
+    guid: 9fbabe2eff72c4040b154efabbc2c145
+  - enabled: 1
+    path: Assets/Scenes/Pengurangan Scene/Level2_Pengurangan.unity
+    guid: 0582d866790618c4784e51fd84d28723
+  - enabled: 1
+    path: Assets/Scenes/Pengurangan Scene/Menu_Pengurangan.unity
+    guid: ebeda204039d2bf44853527a4c072af0
+  m_configObjects: {}
